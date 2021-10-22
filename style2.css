@@ -15,8 +15,7 @@ body {
   display: grid;
   place-items: center;
   background: url(images/Imagem1.png);
-  width: 100%;
-  position: absolute;
+  background-position: center;
 }
 
 
