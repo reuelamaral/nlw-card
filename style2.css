@@ -78,7 +78,8 @@ a {
 }
 
 p {
-  margin-top: 2rem;
+  padding: 8px;
+  margin-top: 1rem;
   font-family: sans-serif;
 }
 
